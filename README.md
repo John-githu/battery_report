@@ -25,7 +25,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/battery-report.git
+git clone https://github.com/John-githu/battery-report.git
 cd battery-report
 pip install lxml
 ```
